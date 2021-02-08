@@ -1,0 +1,626 @@
+[
+    {
+        "segmentId": 58238,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575627,
+                    10.7726397
+                ],
+                [
+                    106.6575467,
+                    10.7726939
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee4",
+            "type": "LineString"
+        },
+        "segment": 58238,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58237,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575763,
+                    10.7725909
+                ],
+                [
+                    106.6575627,
+                    10.7726397
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee5",
+            "type": "LineString"
+        },
+        "segment": 58237,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58239,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575467,
+                    10.7726939
+                ],
+                [
+                    106.6575174,
+                    10.7727985
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee6",
+            "type": "LineString"
+        },
+        "segment": 58239,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47393,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6587224,
+                    10.772575
+                ],
+                [
+                    106.6579551,
+                    10.7721613
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee7",
+            "type": "LineString"
+        },
+        "segment": 47393,
+        "source": "base-data",
+        "velocity": 5,
+        "los": "F",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58236,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575988,
+                    10.7725104
+                ],
+                [
+                    106.6575763,
+                    10.7725909
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee8",
+            "type": "LineString"
+        },
+        "segment": 58236,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58240,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575174,
+                    10.7727985
+                ],
+                [
+                    106.6572154,
+                    10.7738791
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee9",
+            "type": "LineString"
+        },
+        "segment": 58240,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58235,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6577374,
+                    10.7720157
+                ],
+                [
+                    106.6575988,
+                    10.7725104
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eea",
+            "type": "LineString"
+        },
+        "segment": 58235,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47392,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6579835,
+                    10.7721085
+                ],
+                [
+                    106.6587508,
+                    10.7725222
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eeb",
+            "type": "LineString"
+        },
+        "segment": 47392,
+        "source": "base-data",
+        "velocity": 25,
+        "los": "D",
+        "time": "02/04/2021, 10:30AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58238,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575627,
+                    10.7726397
+                ],
+                [
+                    106.6575467,
+                    10.7726939
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee4",
+            "type": "LineString"
+        },
+        "segment": 58238,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58237,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575763,
+                    10.7725909
+                ],
+                [
+                    106.6575627,
+                    10.7726397
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee5",
+            "type": "LineString"
+        },
+        "segment": 58237,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58239,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575467,
+                    10.7726939
+                ],
+                [
+                    106.6575174,
+                    10.7727985
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee6",
+            "type": "LineString"
+        },
+        "segment": 58239,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47393,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6587224,
+                    10.772575
+                ],
+                [
+                    106.6579551,
+                    10.7721613
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee7",
+            "type": "LineString"
+        },
+        "segment": 47393,
+        "source": "base-data",
+        "velocity": 5,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58236,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575988,
+                    10.7725104
+                ],
+                [
+                    106.6575763,
+                    10.7725909
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee8",
+            "type": "LineString"
+        },
+        "segment": 58236,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58240,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575174,
+                    10.7727985
+                ],
+                [
+                    106.6572154,
+                    10.7738791
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee9",
+            "type": "LineString"
+        },
+        "segment": 58240,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58235,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6577374,
+                    10.7720157
+                ],
+                [
+                    106.6575988,
+                    10.7725104
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eea",
+            "type": "LineString"
+        },
+        "segment": 58235,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47392,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6579835,
+                    10.7721085
+                ],
+                [
+                    106.6587508,
+                    10.7725222
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eeb",
+            "type": "LineString"
+        },
+        "segment": 47392,
+        "source": "base-data",
+        "velocity": 25,
+        "los": "D",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58238,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575627,
+                    10.7726397
+                ],
+                [
+                    106.6575467,
+                    10.7726939
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee4",
+            "type": "LineString"
+        },
+        "segment": 58238,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58237,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575763,
+                    10.7725909
+                ],
+                [
+                    106.6575627,
+                    10.7726397
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee5",
+            "type": "LineString"
+        },
+        "segment": 58237,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58239,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575467,
+                    10.7726939
+                ],
+                [
+                    106.6575174,
+                    10.7727985
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee6",
+            "type": "LineString"
+        },
+        "segment": 58239,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 10:45AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47393,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6587224,
+                    10.772575
+                ],
+                [
+                    106.6579551,
+                    10.7721613
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee7",
+            "type": "LineString"
+        },
+        "segment": 47393,
+        "source": "base-data",
+        "velocity": 5,
+        "los": "F",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58236,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575988,
+                    10.7725104
+                ],
+                [
+                    106.6575763,
+                    10.7725909
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee8",
+            "type": "LineString"
+        },
+        "segment": 58236,
+        "source": "base-data",
+        "velocity": 10,
+        "los": "F",
+        "time": "02/04/2021, 11:00M",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58240,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6575174,
+                    10.7727985
+                ],
+                [
+                    106.6572154,
+                    10.7738791
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0ee9",
+            "type": "LineString"
+        },
+        "segment": 58240,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 58235,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6577374,
+                    10.7720157
+                ],
+                [
+                    106.6575988,
+                    10.7725104
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eea",
+            "type": "LineString"
+        },
+        "segment": 58235,
+        "source": "base-data",
+        "velocity": 20,
+        "los": "E",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    },
+    {
+        "segmentId": 47392,
+        "polyline": {
+            "coordinates": [
+                [
+                    106.6579835,
+                    10.7721085
+                ],
+                [
+                    106.6587508,
+                    10.7725222
+                ]
+            ],
+            "_id": "601cf8c055fa7a74025d0eeb",
+            "type": "LineString"
+        },
+        "segment": 47392,
+        "source": "base-data",
+        "velocity": 25,
+        "los": "D",
+        "time": "02/04/2021, 11:00AM",
+        "street": {
+            "name": "Lý Thường Kiệt",
+            "type": "primary"
+        }
+    }
+]

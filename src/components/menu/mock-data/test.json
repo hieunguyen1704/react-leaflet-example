@@ -1,0 +1,26 @@
+{
+  "segmentId": 58238,
+  "polyline": {
+      "coordinates": [
+          [
+              106.6575627,
+              10.7726397
+          ],
+          [
+              106.6575467,
+              10.7726939
+          ]
+      ],
+      "_id": "601cf8c055fa7a74025d0ee4",
+      "type": "LineString"
+  },
+  "segment": 58238,
+  "source": "base-data",
+  "velocity": 10,
+  "los": "F",
+  "time": "02/04/2021, 10:30AM",
+  "street": {
+      "name": "Lý Thường Kiệt",
+      "type": "primary"
+  }
+}
