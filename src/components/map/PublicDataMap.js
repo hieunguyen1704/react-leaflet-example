@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect, useRef } from "react";
 import {
   MapContainer,
@@ -16,7 +17,7 @@ import { blueMarker, redMarker, circleMarker } from "./fragments/mapIcon";
 import "./PublicDataMap.css";
 
 const MapRefComponent = (props) => {
-  const { searchResult, handleAddMarker, setCenter } = props;
+  const { searchResult, handleAddMarker, setCenter, setEndMarkerPosition } = props;
   const map = useMap();
   useEffect(() => {
     navigator.geolocation.getCurrentPosition((position) => {
@@ -29,6 +30,8 @@ const MapRefComponent = (props) => {
   useEffect(() => {
     if (searchResult.position) {
       map.flyTo(searchResult.position);
+      //reset end position when search success
+      setEndMarkerPosition({});
     }
   }, [searchResult]);
   //map click event
@@ -97,6 +100,7 @@ const PublicDataMap = (props) => {
           setCenter={setCenter}
           searchResult={searchResult}
           handleAddMarker={handleAddMarker}
+          setEndMarkerPosition={setEndMarkerPosition}
         />
         {startMarkerPosition.lat && startMarkerPosition.lng && (
           <Marker

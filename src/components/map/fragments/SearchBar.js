@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
@@ -30,7 +31,7 @@ function SearchBar(props) {
   const classes = useStyles();
   const [searchValue, setSearchValue] = useState("");
   const [searchResult, setSearchResult] = useState([]);
-  const debouncedSearchValue = useDebounce(searchValue, 500);
+  const debouncedSearchValue = useDebounce(searchValue, 300);
 
   useEffect(() => {
     if (debouncedSearchValue) {
@@ -86,9 +87,11 @@ function SearchBar(props) {
                 className={styles.searchItem}
                 key={item.id}
                 onClick={() => {
-                  // console.log(item.position);
+                  // save search result is selected  
                   props.handleSearchResult(item);
                   setSearchResult([]);
+                  // set search value is selected to search bar
+                  setSearchValue(item.address.label);
                 }}
               >
                 {item.address.label}
