@@ -5,3 +5,16 @@
   left: 50%;
   transform: translateX(-50%);
 }
+.mt24{
+  margin-top: 24px;
+}
+.header{
+  padding-top: 16px;
+  text-align: center;
+}
+.buttonGetData{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 24px !important;
+}
